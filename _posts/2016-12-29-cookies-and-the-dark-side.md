@@ -1,3 +1,8 @@
+---
+layout: post
+title: Cookies and exclusives: my fall to the Dark Side (or, first impressions of the Xbox One S)
+—-—
+![What can I say? They had Forza.](http://68.media.tumblr.com/5a8ad12bae707db8ffadd9a3bd7c8439/tumblr_inline_oixnmq9yCt1rw93qd_500.jpg)
 My folks say I’m a traitor. Maybe they’re right, but I don’t regret it.
 
 I come from a family of well-established PlayStation allegiance.  We’ve owned some of the other platforms here and there, but on the whole, we’ve stuck with our status as a Sony household since before I was born.
