@@ -6,7 +6,7 @@
 name: Trespeak
 
 # Short bio or description (displayed in the header)
-description: That Nerd Boy
+description: Notes, odds and ends from The Tremulous One
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: http://i.imgur.com/oCqTYd7.jpg
@@ -74,6 +74,7 @@ sass:
 
 # Use the following plug-ins
 gems:
+  - jekyll-paginate # Pagination
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
 
@@ -84,5 +85,10 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+
+# Pagination
+paginate: 10
+paginate_path: "/page:num/"
+
 
 theme: minimal
