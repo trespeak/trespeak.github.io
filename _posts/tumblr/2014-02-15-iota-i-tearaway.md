@@ -1,0 +1,28 @@
+---
+layout: post
+title: iota i tearaway
+date: '2014-02-15T04:06:00-05:00'
+tags:
+- tearaway
+- media molecule
+- lyle terry
+tumblr_url: http://tremulousone.tumblr.com/post/76715636828/iota-i-tearaway
+---
+iota & I: A retrospective on Tearaway
+Ah, paper. Where would we be without it?
+Perhaps man’s greatest invention, the yield of wood has been a vital part of human life for what feels to us modern folks like a mega-anuum. But despite how much we’ve grown reliant on it, we don’t think of it as something that can have emotions– it’s inanimate, unfeeling, lifeless, the end result of man sapping the life out of the very thing keeping the human race alive.
+But what if it wasn’t? What if, by some chance of luck, that thin material we’ve grown to rely on was capable of having an identifiable soul?
+Media Molecule’s video game Tearaway explores this concept to its limits, wrapping you up in a world where paper isn’t a symbol of death, but a vessel for life– and so, so much more.
+
+In a number of ways, Tearaway is similar to its predecessor LittleBigPlanet (and that game’s sequel): they’re both primarily platformers made by Mm that heavily emphasize the player’s input, with characters and worlds ripe for the user to change as they see fit. But beyond the superficialities, Tearaway carves its own niche. Less control is immediately given to the player due to the game’s lack of the level creation seen in LBP, but, in an ironic twist of fate, not having as much control over the game itself ultimately ends up giving Tearaway an advantageous sentimental edge– the things you do have control over are made that much more memorable.
+In the game, you’re actually playing a bit of a dual role: both yourself, the Vita-holding possessor of godlike powers within the game’s dimension, and one of two Messengers, iota (the “boy”) or atoi (the “girl”, pronounced “ah-twa”). (I decided to play with iota this time around, hence why he’s the star of the screenshots, but I do plan on playing through again as atoi at some point.)
+Your envelope-headed companion’s task is a simple one: to bring a special message to The You, a literal face in the Sun that appeared from the ether on one fateful day. They’re not going to be able to do it on their own, however, leaving it up to them and The You to work together in order to get them into The You’s world.
+The narrative is as spartan as any story-focused game can get, but it leaves a lot open for the game to explore with customization, and that’s where Tearaway begins to truly shine. My game is one where the snowflakes are more green than white, the elk have Rayman Origins’s cover as a pelt, scarecrows have devilish red eyes, and black lightning bolts adorn nearly everything. This game may have been developed by Media Molecule, but with every session it’s become more and more of an extension of myself.
+As a result, by creating a bond with the creative part of the psyche, Tearaway breaks from convention. I really ended up seeing that in my Messenger, in fact. Beyond his chipmunk-like grunts and yelps, he didn’t speak a word over our journey, but I still felt like we were relating to each other, so to speak. In the best way possible, the game starts to feel like a deepening of the experience of tracking a package through the mail, except that package is alive, and it wants more than anything else in the world to find its recipient.
+While there is combat with the aggressive-yet-adorable Scraps, it’s not nearly as emphasized as the game’s customization aspect; if not for the cleverly-paced introduction of different enemy types to complement the Messenger’s growing arsenal of abilities, the “fighting” (for lack of a better word) would seem to be an afterthought. The Scraps mostly serve as a way for Mm to showcase what iota or atoi can do, and that’s alright. The game is never truly frustrating beyond a few levels near the end that test out your Messenger’s platforming perception, but even that is relatively short-lived. (LittleBigPlanet this is not, mercifully.)
+Even within the confines of the PSVita, Tearaway already shines as a beacon of immersion. The game seems intent on taking you back to the days of elementary school when you’d create the stuff of your dreams with scissors and glue, and the digital variant of that process that is used to make in-game decorations is a highlight of playing. Combined with the game’s use of the touchpad to bring your fingers into the landscape, the gameplay laughs in the face of gimmick claims, turning what many saw as worthless Vita features into viable (maybe even inseperable) additions to a solid formula.
+
+And finally, perhaps one of the greatest things about Tearaway is that its fun doesn’t stop when your Vita’s battery dies– far from it. Over the course of the game, Mm scatters around a series of unlockable papercraft plans that can be printed from the official website, and with a little cardstock (or printer paper in my case) and some crafty thinking, you might just be able to bring the game into the real world (and after playing, you’ll definitely want to).
+
+Since its initial announcement, Tearaway’s been hailed as the killer app the Vita needed, and it’s not hard to see why. The game oozes with a uniquely youthful charm while paying respect to the 3D platformers that led up to it in generations past, giving it a rare crossover appeal, and I can safely say it’s the only game that has ever made me cry tears of joy over digital strips of paper. But don’t just take my word for it: this game is an experience to be had for oneself. As I’ve stated before, Tearaway “is the most fantastic game and everyone with or without a Vita should play it”, and I stand by my word.
+Beyond the realm of mere ratings

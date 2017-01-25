@@ -1,0 +1,16 @@
+---
+layout: post
+title: no title
+date: '2016-02-14T00:00:00-05:00'
+tags: []
+tumblr_url: http://tremulousone.tumblr.com/post/148289867034/tremulousone-im-starting-to-grow-sick-of-the
+---
+tremulousone:
+
+I’m starting to grow sick of the idea that sharing one’s life on the internet is a bad thing.
+One thing I’ve noticed about myself in particular is that I love one particular blogging platform, Tumblr, but the most popular and frequent blog I run on the service is made up almost entirely from posts from other people. When I put something up on my own, it sticks out like a sore thumb, like it’s out of place in a stream of things that are actually interesting. I’ve fallen victim to the same curse on Instagram; Twitter is a little better because messages on it are so small that it’s easier to make it your own than culling it from other accounts, but the point still stands. 
+The classic narrative about how talking about yourself too much on the Internet is bad for job hunting has only served to exacerbate my personal problem. My high school teachers talked about Facebook like it was made for sabotaging your chances of making money in the future, that if you so much as said ‘I had a delicious can of Coke today’ on there it’d kill any possibility of getting hired for some nebulous boss out there in the Real World who liked Pepsi. 
+It also seems like one of the biggest issues that some have vocalized about with social media is the idea of oversharing, that dreaded food picture on Instagram or that Tweet about someone’s cat that you could not give any less of an expletive about. I can understand why this might be bothersome to these folks, but the idea of annoying my peers with just a couple of lines of text or making myself unattractive to employers has infected me to the point where I can’t even bring myself to write things for my own blog anymore without panicking about it, and Lord help me if I ever give into my temptations to create art of practically any sort.
+Personally, though? I don’t mind it, and I’m not going to fault someone for wanting to spread their love for something. There are seven billion people on this planet, so it’s almost impossible for absolutely all of them to hate what you’re passionate about, figuratively and statistically.
+Of course, in the case of me keeping to myself there is a possibility that it might just be a perception thing, and I wouldn’t be surprised if it were. One trait that people with autism spectrum disorders often display is a desire to speak constantly about topics that interest them often to the point of annoyance for the listener if it isn’t something they share that same passion for. I’ve grown aware of this to the point of almost actively avoiding my ‘special interests’ (or, as I like to call them, ''Things’, capitalization included) in casual conversation unless I’ve grown comfortable with whoever’s there, and I guess in my case it ended up bleeding over to the ''net. 
+It’ll probably be hard for me to break that barrier and start actively talking about my Things in a context like my main blog, but I guess it’d be best to make it a gradual thing. If it happens, it happens, and if not, I don’t think I’ll sweat it a bunch.

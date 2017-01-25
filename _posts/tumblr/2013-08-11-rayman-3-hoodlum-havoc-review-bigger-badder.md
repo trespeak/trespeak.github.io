@@ -1,0 +1,27 @@
+---
+layout: post
+title: rayman 3 hoodlum havoc review bigger badder
+date: '2013-08-11T01:38:00-04:00'
+tags: []
+tumblr_url: http://tremulousone.tumblr.com/post/76663777880/rayman-3-hoodlum-havoc-review-bigger-badder
+---
+Rayman 3: Hoodlum Havoc review: bigger, badder, madder
+
+The early 2000s were something of a weird set of years for the platformer. While some of the new kids on the block like Jak and Daxter and Ratchet and Clank and classic standbys Mario and Metroid thrived despite the waning popularity of the genre, some of the old guard like Sonic and Spyro the Dragon struggled to adapt to the changing tastes of the industry. 
+
+Ubisoft (in the last few years when they were 2 words, Ubi Soft) were all too aware of the trend and found themselves in a pickle: At the end of the last millennium their 3D platformer Rayman 2: The Great Escape was successful both commercially and critically, so a sequel was in order, but the genre’s downward trend made it so that sequel was going to need a few tweaks in order to make the limbless wonder appealing to the gaming world of 2003. Ray was going to need to become more edgy, and so was the world around him. The next generation of the series was going to have to be bolder, prettier and occasionally more hellish. (That last one’s a bit of a tough sell considering stuff like The Cave of Bad Dreams in The Great Escape.)
+
+And now, here we are, ten years after the release of Rayman 3: Hoodlum Havoc. Its effect on the rest of the series continues to this day primarily in the form of the eponymous character’s appearance and the humor value in the games’ inherent ridiculousness taking a more prominent position. I’ve already shared my thoughts on this one’s sequel (not counting the Rabbids series) but my interest, nay, obsession with the series made exploring the rest of it an inevitability, so that’s why I played it (and reviewed it!) so long after its release.
+
+
+So, the game, then. One thing that immediately swept me was just how pretty this game was compared to the second. First impressions are vital to a game’s appeal, and Ubi Montpellier knew just how to give Hoodlum Havoc a good one. My only visual gripe with the game (beyond the occasional minor camera screw) is the absolute lack of any reanimation for the English version (heck, even the sound effects shown when you hit enemies are still in French). It almost feels like a Hong Kong dub, but if you treat it as such then it’s not that big a deal. (I think they might have fixed this in the HD remake, however.)
+
+The plot is relatively simple but effective: the idyllic Glade of Dreams has been invaded by the malevolent Hoodlums, and their high and mighty leader André is stuck in the stomach of Globox, Rayman’s best friend and loyal sidekick. Naturally, this leaves it up to Ray to simultaneously curb the threat of the Hoodlums and help his friend before André tears him apart from the inside, and that’s where you come in to assist Ray on this day-long quest. It’s not the world’s most complex narrative but it succeeds in setting the stage for one of the game’s bigger boons — the humor. John Leguizamo was picked as the voice of Globox this time around, and it shows because his portrayal is almost immediately recognizable as Sid from Ice Age. The weird thing about it, however, is that despite how different the two characters seem if one takes The Great Escape into account, it fits, and pretty well, at that. In addition, he’s only around for the beginning to introduce you to the game’s mechanics, but the always charismatic Billy West (Futurama and Ren & Stimpy) gives a solid go for the voice of know-nothing-know-it-all Murfy. (Perhaps Ubisoft paid him better this time around.) It’s a far cry from the somewhat bleak tone of Rayman 2 (and something of a base breaker within the fandom) but the subversive nature fits this game like a glove, and the experience was more enjoyable for me as a result.
+
+The somewhat varied reputation the game’s grown over the years may leave one wondering, then— for everything Ubisoft Montpellier got right, what’s wrong with this game? The devil is very much in the details, here. While Ray’s controls are just fine (dare I say it, they’re improved from the second game), it’s how they’re used that poses a problem.
+
+The game strives its hardest to be a subversive action-platformer, and while it gets the “subversive” part right, it fumbles with the balance between “action” and “platformer”. Rather than having a solid balance of the two, there’s too much of an emphasis on the “action” side, which makes for a more frantic experience than its predecessor, but not necessarily a better one. It’s acceptable for the most part, but my experiences with the Knaaren, the bosses (especially Reflux, all umpteen times the game makes you fight him) and the more-frustrating-than-fun timer puzzles made me feel like the game was alright as a game, but it didn’t feel like Rayman.
+
+Overall, the possibly repetitive-feeling gameplay and emphasis on combat keep this game from being the instant classic Rayman 2 became, but the third entry in the series manages to stay worthwhile thanks to the hilarious script and the occasional part or two where the game hits that ridiculously high amount of potential the second game hinted at. Newcomers to the Rayman series may want to steer toward the later games or The Great Escape before entering Hoodlum Havoc, but once you’re a fan (and you will be) this one’s still worth a play.
+
+7.5/10
