@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Cookies and exclusives: my fall to the Dark Side (or, first impressions of the Xbox One S)
-—-—
+---
 ![What can I say? They had Forza.](http://68.media.tumblr.com/5a8ad12bae707db8ffadd9a3bd7c8439/tumblr_inline_oixnmq9yCt1rw93qd_500.jpg)
 My folks say I’m a traitor. Maybe they’re right, but I don’t regret it.
 
@@ -13,10 +13,9 @@ We’ve done this going as far back as the original Xbox, so it wasn’t out of 
 
 (Just warning you now: I curse in these a decent amount. Never said I was a squeaky-clean boy. Also, please don’t take these as reviews– I’ve been jumping between these, so they’re really only representative of the first little bits I’ve gotten to try since Christmas.)
 
-<figure data-orig-width="960" data-orig-height="520" class="tmblr-full">![](http://68.media.tumblr.com/fa863df08984fba6430d0cd1b9c0439c/tumblr_inline_oixpc9pxRD1rw93qd_500.jpg)</figure>
+![Forza](http://68.media.tumblr.com/fa863df08984fba6430d0cd1b9c0439c/tumblr_inline_oixpc9pxRD1rw93qd_500.jpg)
 
-_Dec 25, 2016 at 05:01 pm  
-_
+_Dec 25, 2016 at 05:01 pm_
 
 I looooooooooove Forza Horizon 3  
 
@@ -24,7 +23,7 @@ Burnout Paradise it is not (for that I have Burnout Paradise, which I’m downlo
 
 I can’t remember if it was the Verge or Polygon that referred to it as “the Fast and the Furious of video games,” but the comparison is apt– like those movies, it eschews realism and narrative depth in favor of showing off its automotive stars in just-beyond-possible situations with style. In the absence of a true successor to Paradise, Horizon 3 has probably gotten the closest to filling those shoes (or tires, if you will).  
 
-<figure data-orig-width="1920" data-orig-height="1080" class="tmblr-full">![](http://68.media.tumblr.com/6678f8b8218c22974ef16e5f8acc09aa/tumblr_inline_oixpde7LdA1rw93qd_500.jpg)</figure>
+![Sunset Overdrive](http://68.media.tumblr.com/6678f8b8218c22974ef16e5f8acc09aa/tumblr_inline_oixpde7LdA1rw93qd_500.jpg)
 
 _Dec 26, 2016 at 12:29 am_
 
@@ -34,7 +33,7 @@ I’ve always admired Insomniac’s post-Spyro work from afar (one day I’ll pl
 
 I can see why some people aren’t big on breaking the fourth wall due to overexposure in recent media, but I continue to be a fan of self-awareness in things I like because it’s been one of my favorite tropes since my childhood. Sunset is a good example of how to do it right, I’d say– the feel here is vulgar, weird fun, and it fits well with the sense of humor the game’s got. It feels like a game built with my sailor-mouthed PoMo-loving punk side in mind and I’m digging it.   
 
-<figure data-orig-width="1920" data-orig-height="1080" class="tmblr-full">![](http://68.media.tumblr.com/85eb24a83dea370d730af9166ad75300/tumblr_inline_oixpewFtCT1rw93qd_500.jpg)</figure>
+![WD2](http://68.media.tumblr.com/85eb24a83dea370d730af9166ad75300/tumblr_inline_oixpewFtCT1rw93qd_500.jpg)
 
 _Dec 27, 2016 at 10:12 pm_
 
@@ -44,9 +43,9 @@ I also very quickly found myself charmed by the game’s sense of humor. I was a
 
 It’s good shit, and it bodes well for the future of the franchise. Fans of the first game’s attempt to be a cyber film noir might be disappointed, but for people like me who would rather live out their Hackers (or, in my case, Little Brother) fantasies, it’s a damn good way to do so.
 
-<figure data-orig-width="1920" data-orig-height="1080" class="tmblr-full">![](http://68.media.tumblr.com/f2c221240c73c13522e93fb70f83fd58/tumblr_inline_oixpfzb5Yh1rw93qd_500.jpg)</figure>
+![Battlefield 1](http://68.media.tumblr.com/f2c221240c73c13522e93fb70f83fd58/tumblr_inline_oixpfzb5Yh1rw93qd_500.jpg)
 
-_Dec 28, 2016 at 11:27 pm _
+_Dec 28, 2016 at 11:27 pm_
 
 I wasn’t expecting myself to like Battlefield 1\. I’m not a Call of Duty kind of guy at all, and I usually just lumped the series in with its competitor because it is, for all intents and purposes, EA’s answer to the phenomenon; beyond finding Battlefield more technically impressive I didn’t have any intent of playing it. I figured it wouldn’t be right to dismiss it given that it was the bundled game with my Xbox and it’s $60-ish on its own at the moment.  
 
@@ -54,7 +53,7 @@ After playing the first war story, I’m a believer. The opening of the game is 
 
 Initially, I found myself uncomfortable with the gameplay in the first few levels proper, stumbling through the early tank sequences and getting shot to oblivion, but by the last level I was invested, balancing my roles as the driver/repairman and a scout for my crew like an intricate dance. (The plot wasn’t too shabby either, and I’m digging the episodic structure of the campaign– good for little, self-contained sessions.)  
 
-<figure class="tmblr-full" data-orig-height="720" data-orig-width="1080">![](http://68.media.tumblr.com/0198760997621967fa079709918b70a1/tumblr_inline_oixpzmgYG51rw93qd_500.jpg)</figure>
+[Me and my games](http://68.media.tumblr.com/0198760997621967fa079709918b70a1/tumblr_inline_oixpzmgYG51rw93qd_500.jpg)
 
 _Dec 29, 2016, whenever this post goes up_
 
