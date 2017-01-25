@@ -20,11 +20,13 @@ html {
 body {
 	background: #00cc00;
 	background-image:url("images/triangles.png");
+	background-size: cover;
   font: 18px/1.4 $helvetica;
   color: $darkGray;
 }
 
 .container {
+  background: #ffffff;
   margin: 0 auto;
   max-width: 740px;
   padding: 0 10px;
