@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Cookies and exclusives: my fall to the Dark Side (or, first impressions of the Xbox One S)
+title: Cookies, exclusives and my fall to the Dark Side (or, first impressions of the Xbox One S)
 ---
 ![What can I say? They had Forza.](http://68.media.tumblr.com/5a8ad12bae707db8ffadd9a3bd7c8439/tumblr_inline_oixnmq9yCt1rw93qd_500.jpg)
 My folks say I’m a traitor. Maybe they’re right, but I don’t regret it.
