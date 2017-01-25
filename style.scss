@@ -20,9 +20,9 @@ html {
 body {
 	background: #00cc00;
 	background-image:url("images/thign.png");
-	background-size: fixed;
+	background-attachment: fixed;
 	background-repeat: no-repeat;
-  font: 18px/1.4 $helvetica;
+  font: 18px/1.4 'Roboto', $helvetica;
   color: $darkGray;
 }
 
@@ -35,7 +35,7 @@ body {
 }
 
 h1 {
-  font-family: $helveticaNeue;
+  font-family: 'Rubik', $helveticaNeue;
   color: $black;
 
   line-height: 1.7;
@@ -48,7 +48,7 @@ h1 {
 }
 
 h2, h3, h4, h5, h6 {
-  font-family: $helveticaNeue;
+  font-family: 'Roboto', $helveticaNeue;
   color: $darkerGray;
   font-weight: bold;
 
@@ -230,7 +230,8 @@ img {
 nav {
   float: right;
   margin-top: 23px; // @TODO: Vertically middle align
-  font-family: $helveticaNeue;
+  font-family: 'Rubik', $helveticaNeue;
+  font-weight: 300;
   font-size: 18px;
 
   @include mobile {
@@ -304,3 +305,4 @@ footer {
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
 @import "svg-icons";
+@import url('https://fonts.googleapis.com/css?family=Roboto:300,300i|Rubik:400,700,700i');
