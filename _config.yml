@@ -87,7 +87,6 @@ exclude:
   - CNAME
 
 # Pagination
-pagination: true
 
 
 theme: minimal
