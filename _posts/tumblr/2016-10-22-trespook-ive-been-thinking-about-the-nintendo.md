@@ -1,6 +1,5 @@
 ---
 layout: post
-title: no title
 date: '2016-10-22T14:56:48-04:00'
 tags:
 - the notorious t.r.e.
