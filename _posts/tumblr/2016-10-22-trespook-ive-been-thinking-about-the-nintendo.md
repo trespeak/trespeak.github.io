@@ -1,6 +1,7 @@
 ---
 layout: post
 date: '2016-10-22T14:56:48-04:00'
+title: On branding and the Nintendo Switch
 tags:
 - the notorious t.r.e.
 tumblr_url: http://tremulousone.tumblr.com/post/152166423429/trespook-ive-been-thinking-about-the-nintendo
