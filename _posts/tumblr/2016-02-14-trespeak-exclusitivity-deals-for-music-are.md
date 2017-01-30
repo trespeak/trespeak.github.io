@@ -5,6 +5,7 @@ date: '2016-02-14T00:00:00-05:00'
 tags: []
 tumblr_url: http://tremulousone.tumblr.com/post/148289905189/trespeak-exclusitivity-deals-for-music-are
 ---
+[trespeak](http://trespeak.tumblr.com/post/139303292923):
 
 I get that most of them are just temporary type affairs, but come on, by the time Rihanna’s ANTI came out anywhere besides TIDAL nobody cared because Beyoncé had already put out Formation (also on TIDAL) and now Kanye’s TLOP is only legally accessible there, no option to buy it through iTunes or anything.
 
@@ -19,5 +20,3 @@ Perhaps this wouldn’t be as big an issue if the historic streaming industry le
 I don’t see the deals going away any time soon, either, which is sad because I know what it’s like to feel diminishing returns on one’s work but I also feel like music’s one of those things that ought to be accessible to as many ears as possible.
 
 **tl;dr** Tre’s pissed off not only because he can’t listen to Kanye without going to The Pirate Bay, but also because he really wouldn’t have to do that if that weren’t the way the industry were going.
-
-[Originally published at trespeak on Tumblr](http://trespeak.tumblr.com/post/139303292923):
