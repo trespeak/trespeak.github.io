@@ -39,12 +39,12 @@ h1 {
   color: $black;
   font-weight: bold;
 
-  line-height: 1.7;
+  line-height: 1.2;
   margin: 1em 0 15px;
   padding: 0;
 
   @include mobile {
-    line-height: 1.4;
+    line-height: 1.0;
   }
 }
 
@@ -53,12 +53,12 @@ h2, h3, h4, h5, h6 {
   color: $darkerGray;
   font-weight: bold;
 
-  line-height: 1.7;
+  line-height: 1.2;
   margin: 1em 0 15px;
   padding: 0;
 
   @include mobile {
-    line-height: 1.4;
+    line-height: 1.0;
   }
 }
 
@@ -300,6 +300,15 @@ nav {
 footer {
   padding: 20px 0;
   text-align: center;
+}
+
+ul #posts {
+  list-style-type: none;
+}
+
+a #posts {
+  font-family: 'Rubik', $helveticaNeue, sans-serif;
+  font-weight: bold;
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
