@@ -87,10 +87,7 @@ exclude:
   - CNAME
 
 # Pagination
-pagination:
-  limit: false
-  per_page: 10
-  permalink:    /page:num/     # pagination path (relative to template page)
+pagination: true
 
 
 theme: minimal
