@@ -1,6 +1,6 @@
 ---
 layout: post
-title: no title
+title: My exoreurebces with being autistic
 date: '2016-04-02T00:00:00-04:00'
 tags: []
 tumblr_url: http://tremulousone.tumblr.com/post/148289749784/trespeak-so-id-like-to-think-i-do-a-pretty
