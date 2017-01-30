@@ -1,6 +1,6 @@
 ---
 layout: post 
-title: no title 
+title: Why I don't like standardized tests (even though they made me)
 date: '2016-07-23T00:00:00-04:00' 
 tags: [] 
 tumblr_url: http://tremulousone.tumblr.com/post/148332954194/trespeak-you-know-its-interesting-i-am-where 
